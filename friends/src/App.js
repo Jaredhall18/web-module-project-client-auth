@@ -10,7 +10,7 @@ const Login = ()=> {
 function App() {
   return (
     <div className="App">
-      <h2>Client Auth Project</h2>
+      <h2>Client Auth Project!</h2>
     </div>
   );
 }
